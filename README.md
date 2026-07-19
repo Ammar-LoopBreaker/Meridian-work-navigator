@@ -51,9 +51,9 @@ Open `index.html` in any modern browser — there is no server, build step, or i
 
 | Layer | Choice | Why |
 |---|---|---|
-| Markup | HTML5 | Semantic structure, no templating engine needed |
-| Styling | CSS3 (Custom Properties, Flexbox, Grid, SVG styling) | Full control over the instrument-style visuals with zero framework overhead |
-| Behavior | Vanilla JavaScript (ES6+) | Small surface area, no bundler required, easy to audit and extend |
+| Markup | HTML | Semantic structure, no templating engine needed |
+| Styling | CSS (Custom Properties, Flexbox, Grid, SVG styling) | Full control over the instrument-style visuals with zero framework overhead |
+| Behavior | JavaScript  | Small surface area, no bundler required, easy to audit and extend |
 | Fonts | [Fraunces](https://fonts.google.com/specimen/Fraunces), [Inter](https://fonts.google.com/specimen/Inter), [IBM Plex Mono](https://fonts.google.com/specimen/IBM+Plex+Mono) (Google Fonts) | Display serif for personality, a clean UI sans, and a monospace face for all timers and data |
 | Audio | Web Audio API | Synthesized chime, no binary audio asset to ship |
 | Persistence | `localStorage` | Keeps the voyage log and preferences on-device, no backend required |
