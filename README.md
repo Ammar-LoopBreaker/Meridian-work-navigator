@@ -4,7 +4,7 @@
 
 Meridian is a deep-work session tracker built around a single idea: a focus session is a voyage. You set a bearing (a session length), hold your course while an astrolabe-style dial sweeps, and log a waypoint in your voyage log the moment you arrive. Every completed session becomes a star plotted on the instrument — turning a day of work into a small, personal constellation.
 
-Built with pure HTML5, CSS3, and vanilla ES6+ JavaScript. No frameworks, no build tools, no dependencies.
+Built with pure HTML, CSS, and JavaScript. No frameworks, no build tools, no dependencies.
 
 ---
 
